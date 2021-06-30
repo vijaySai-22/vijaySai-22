@@ -12,6 +12,7 @@
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Js" width="40" height="40"/> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="#"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="Visual Studio code" width="40" height="40"/> </a>
@@ -22,5 +23,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaySai-22)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaySai-22&show_icons=true)
 
-<!-- <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
