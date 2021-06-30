@@ -24,4 +24,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaySai-22&show_icons=true)
 
 
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
+<!-- <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
