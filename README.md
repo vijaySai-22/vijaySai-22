@@ -1,4 +1,4 @@
-# Hi there 👋, This is [Vijay](https://vijaysai-22.github.io/) 😀
+# Hi there 👋, This is Vijay <!--[Vijay](https://vijaysai-22.github.io/) -->😀
 #### I am Student, Learner, Studying BCA, A passionate self-taught Developer.
 
 - 🔭 I’m currently working on Tkinter GUI package
@@ -18,7 +18,7 @@
 <a href="#"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="Visual Studio code" width="40" height="40"/> </a>
 
 ## Social Info :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' bg="white">](https://github.com/vijaySai-22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vijaysai-22.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/vijaysaiprasadp1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vijaySai_22)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' bg="white">](https://github.com/vijaySai-22) <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vijaysai-22.github.io/)  --> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/vijaysaiprasadp1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vijaySai_22)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaySai-22)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaySai-22&show_icons=true)
