@@ -20,7 +20,7 @@
 ## Social Info :
 [<img src="https://img.icons8.com/fluent-systems-regular/48/fffff/github.png"/>](https://github.com/vijaySai-22) 
 [<img src="https://img.icons8.com/cotton/48/ffffff/website.png"/>](https://vijaysai-22.github.io/) 
-[<img src="https://img.icons8.com/windows/48/26e07f/hackerrank.png"/>](https://www.hackerrank.com/vijaysaiprasadp1) 
+[<img src="https://img.icons8.com/windows/48/26e07f/hackerrank.png"/>](https://www.hackerrank.com/vijaySai_22) 
 [<img src="https://img.icons8.com/material-outlined/48/4a90e2/twitter.png"/>](https://twitter.com/vijaySai_22)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaySai-22)
