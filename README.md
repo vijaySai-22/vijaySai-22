@@ -1,9 +1,9 @@
-# Hello 👋, This is [Vijay](https://vijaysai-22.github.io/)😀
+# Hello 👋, This is Vijay
 #### I am Student, Learner, Studying BCA, A passionate self-taught Developer.
 
 - 🔭 I’m currently working on Advance Python
 - 🌱 I’m currently learning Pandas,Matplotlib
-- ⚡ I learn any technology in 3 Steps:<br>
+- ⚡ I follow 3 steps to learn any technology:<br>
      - Learn Basics<br>
      - Start mini project<br>
      - Learn more .....
@@ -17,8 +17,7 @@
 <a href="#"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="Visual Studio code" width="40" height="40"/> </a>
 
 ## Social Info :
-[<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>](https://github.com/vijaySai-22) 
-[<img src="https://img.icons8.com/ios-glyphs/48/ffffff/domain.png"/>](https://vijaysai-22.github.io/) 
+[<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>](https://github.com/vijaySai-22)
 [<img src="https://img.icons8.com/windows/48/ffffff/hackerrank.png"/>](https://www.hackerrank.com/vijaySai_22) 
 [<img src="https://img.icons8.com/material-outlined/48/ffffff/twitter.png"/>](https://twitter.com/vijaySai_22)  
 
