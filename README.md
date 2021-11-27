@@ -1,8 +1,8 @@
 # Hello 👋, This is Vijay
 #### I am Student, Learner, Studying BCA, A passionate self-taught Developer.
 
-- 🔭 I’m currently working on Advance Python
-- 🌱 I’m currently learning Pandas,Matplotlib
+<!-- - 🔭 I’m currently working on Advance Python -->
+- 🌱 I’m currently learning React JS
 - ⚡ I follow 3 steps to learn any technology:<br>
      - Learn Basics<br>
      - Start mini project<br>
