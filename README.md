@@ -26,7 +26,6 @@
 [<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>](https://github.com/vijaySai-22)
 [<img src="https://img.icons8.com/windows/48/ffffff/hackerrank.png"/>](https://www.hackerrank.com/vijaySai_22) 
 [<img src="https://img.icons8.com/material-outlined/48/ffffff/twitter.png"/>](https://twitter.com/vijaySai_22)
-[<img src="https://img.icons8.com/ios-glyphs/48/ffffff/domain.png"/>](https://vijaysai-22.github.io/)
 
 ## Other Info :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaySai-22)
