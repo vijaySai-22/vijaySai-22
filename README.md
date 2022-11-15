@@ -1,12 +1,12 @@
 # Hello 👋, This is Vijay
-#### I am Student, Learner, Studying BCA, A passionate self-taught Developer.
+#### Working as a Solution Analyst at Sankey Solutions.
 
-<!-- - 🔭 I’m currently working on Advance Python -->
-- 🌱 I’m currently learning React JS
-- ⚡ I follow 3 steps to learn any technology:<br>
+- 🔭 I’m currently working on NextJs and wordpress.org
+- 🌱 I’m currently learning Next JS
+<!-- - ⚡ I follow 3 steps to learn any technology:<br>
      - Learn Basics<br>
      - Start mini project<br>
-     - Learn more .....
+     - Learn more ..... -->
 ## Technologies :
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
