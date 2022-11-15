@@ -1,8 +1,9 @@
 # Hello 👋, This is Vijay
 #### Working as a Solution Analyst at Sankey Solutions.
 
-- 🔭 I’m currently working on NextJs and wordpress.org
-- 🌱 I’m currently learning Next JS
+- 👀 I’m interested in Web development
+- 🔭 I’m currently working on NextJs
+- 🌱 I’m currently learning Next JS and wordpress.org
 <!-- - ⚡ I follow 3 steps to learn any technology:<br>
      - Learn Basics<br>
      - Start mini project<br>
